@@ -1,0 +1,12 @@
+[package]
+name = "mobi-sys"
+version = "0.1.0"
+authors = ["Max Böcker <mobi@morbatex.com>"]
+edition = "2018"
+license = "MIT/Apache-2.0"
+
+[dependencies]
+
+
+[build-dependencies]
+bindgen = "0.44.0"
