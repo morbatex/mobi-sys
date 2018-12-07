@@ -4,6 +4,17 @@ version = "0.1.0"
 authors = ["Max Böcker <mobi@morbatex.com>"]
 edition = "2018"
 license = "MIT/Apache-2.0"
+description = "FFI bindings to libmobi"
+homepage = "https://github.com/morbatex/libmobi-sys"
+repository = "https://github.com/morbatex/libmobi-sys"
+readme = "README.md"
+keywords = ["mobi", "bindings", "ebook", "azw"]
+categories = ["external-ffi-bindings"]
+
+build = "build.rs"
+links = "libmobi"
+
+
 
 [dependencies]
 
