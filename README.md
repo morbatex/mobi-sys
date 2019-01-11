@@ -1,7 +1,7 @@
 
 
 # Libmobi Rust Bindings
-[![Current Crates.io Version](https://img.shields.io/crates/v/rocket.svg)](https://crates.io/crates/mobi-sys)
+[![Current Crates.io Version](https://img.shields.io/crates/v/mobi-sys.svg)](https://crates.io/crates/mobi-sys)
 
 
 The `libmobi-sys` crate provides declarations and linkage for the `libmobi` C library. Following the
