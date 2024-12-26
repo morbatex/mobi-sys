@@ -20,4 +20,4 @@ links = "libmobi"
 
 
 [build-dependencies]
-bindgen = "0.44.0"
+bindgen = "0.71.1"
